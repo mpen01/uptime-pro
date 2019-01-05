@@ -9,7 +9,7 @@ Ubersicht widget to display computer uptime down to the minute.  The widget can 
 
 ## Screenshot
 
-![alt text](https://github.com/mpen01/os-version-pro/blob/master/screenshot.png "OS Version Screenshot")
+![alt text](https://github.com/mpen01/uptime-pro/blob/master/screenshot.png "OS Version Screenshot")
 
 ## Acknowledgments
 
